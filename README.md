@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Débora, a software developer (he/him) from India. I currently work at Pune IN, building web and mobile apps :) My main stack is currently React, Angular,React Native, Node (including NestJS) .
+I'm Vijay, a software developer (he/him) from India. I currently work at Pune IN, building web and mobile apps :) My main stack is currently React, Angular,React Native, Node (including NestJS) .
 
 Software testing has been one of my favourite tech topics for a while! I'm looking forward to learning more about the current tools and libraries (Cypress, Detox, react-testing-library, Jest, Jasmine) and hopefully contributing to them.
 
