@@ -3,7 +3,7 @@ I'm Vijay.Heeralal.Yadav, a software developer (he/him) from India. I currently 
 
 Web Tech, Software testing has been one of my favourite tech topics for a while! I'm looking forward to learning more about the current tools and libraries (React, Golang, Cypress, react-testing-library, Jest, Jasmine) and hopefully contributing to them.
 
-Besides tech stuff, I really enjoy Technology.
+Besides tech stuff, I really enjoy nomadic lifestyle.
 <!--
 **Vijay1110/Vijay1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
