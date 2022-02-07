@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Vijay.Heeralal.Yadav, a software developer (he/him) from India. I currently work in Pune IN, building web and mobile apps :-) My main stack is currently React, Angular,React Native, Spring Boot,Node (including NestJS && Quarkus) .
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Java,React,Node.js)](https://github.com/VijayHYadav)
