@@ -9,6 +9,9 @@ I'm Vijay.Heeralal.Yadav, a software developer (he/him) from India. I currently 
 Web Tech, Software Security testing(pentest) has been one of my favourite tech topics for a while! I'm looking forward to learning more about the current tools and libraries (React, Golang, Cypress, react-testing-library, Jest, Jasmine) and hopefully contributing to them.
 
 Besides tech stuff, I really enjoy nomadic lifestyle.
+
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=VijayHYadav&repo=nuber-eats-frontend&locale=en)](https://github.com/VijayHYadav/nuber-eats-frontend)
+
 <!--
 # Code Tutorials, Examples, and Best Practices.
 These projects usually are a simple Enterprise combination of existing technologies. The following sample applications are provided:
