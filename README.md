@@ -5,12 +5,12 @@ I'm Vijay.Heeralal.Yadav, a software developer (he/him) from India. I currently 
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,Java,React,Redux,Node.js,Express.js,MongoDB,Bootstrap)](https://github.com/VijayHYadav)
 
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=VijayHYadav&repo=A-Real-App-The-Burger-Builder&locale=en)](https://github.com/VijayHYadav/A-Real-App-The-Burger-Builder)
 
 Web Tech, Software Security testing(pentest) has been one of my favourite tech topics for a while! I'm looking forward to learning more about the current tools and libraries (React, Golang, Cypress, react-testing-library, Jest, Jasmine) and hopefully contributing to them.
 
 Besides tech stuff, I really enjoy nomadic lifestyle.
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=VijayHYadav&repo=A-Real-App-The-Burger-Builder&locale=en)](https://github.com/VijayHYadav/A-Real-App-The-Burger-Builder)
 
 <!--
 # Code Tutorials, Examples, and Best Practices.
