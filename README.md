@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Vijay.Heeralal.Yadav, a software developer (he/him) from India. I currently work in Pune IN, building web and mobile apps :-) My main stack is currently React, Angular,React Native, Spring Boot,Node (including NestJS && Quarkus) .
 
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)](https://github.com/VijayHYadav)
+
 Web Tech, Software Security testing(pentest) has been one of my favourite tech topics for a while! I'm looking forward to learning more about the current tools and libraries (React, Golang, Cypress, react-testing-library, Jest, Jasmine) and hopefully contributing to them.
 
 Besides tech stuff, I really enjoy nomadic lifestyle.
